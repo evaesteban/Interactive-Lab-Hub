@@ -4,7 +4,7 @@ Completed Labs for Eva Pilar Esteban Velasco
 
 **Lab Prep**
 
-1. [Lab 2 Prep]//github.com/evaesteban/IDD-Labs-Prep
+1. [Lab 2 Prep](//github.com/evaesteban/IDD-Labs-Prep)
 
 **Labs**
 
