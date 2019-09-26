@@ -6,7 +6,7 @@ Completed Labs for Eva Pilar Esteban Velasco
 
 1. [Lab 2 Prep](//github.com/evaesteban/IDD-Labs-Prep/blob/master/Lab2Prep.md)
 2. [Lab 3 Prep](//github.com/evaesteban/IDD-Labs-Prep/blob/master/Lab3Prep.md)
-3. Lab 4 Prep - I read the necessary material and prepared cardboard for the lab. No other submissions required.
+3. Lab 4 Prep - I read the material and prepared cardboard for the lab. No other submissions required.
 
 **Labs**
 
