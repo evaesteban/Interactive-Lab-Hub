@@ -14,3 +14,4 @@ Completed Labs for Eva Pilar Esteban Velasco
 2. [Lab 2](//github.com/evaesteban/IDD-Fa19-Lab2)
 3. [Lab 3](//github.com/evaesteban/IDD-Fa19-Lab3)
 4. [Lab 4](//github.com/evaesteban/IDD-Fa19-Lab4)
+5. [Lab 5](//github.com/evaesteban/IDD-Fa19-Lab5)
