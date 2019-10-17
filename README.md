@@ -8,6 +8,7 @@ Completed Labs for Eva Pilar Esteban Velasco
 2. [Lab 3 Prep](//github.com/evaesteban/IDD-Labs-Prep/blob/master/Lab3Prep.md)
 3. Lab 4 and Lab 5 Prep - I read the material and prepared cardboard for the labs. No other submissions required.
 4. Lab 6 Prep - I connected my laptop to RedRover and browsed Npm libraries. No other submissions required.
+5. [Lab 7 Prep](//github.com/evaesteban/IDD-Labs-Prep/blob/master/Lab7Prep.md)
 
 **Labs**
 
